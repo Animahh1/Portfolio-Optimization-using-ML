@@ -186,5 +186,3 @@ This project demonstrates:
 * Data visualization
 * Streamlit web development
 
-
-That’s what separates a **basic repo from a strong portfolio project**.
